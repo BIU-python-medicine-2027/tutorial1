@@ -4,10 +4,15 @@ Practice for lecture 1. Open the notebook and run the cells.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIU-python-medicine-2027/tutorial1/blob/main/tutorial1.ipynb)
 
-## Submit
+## How to work
 
-1. Accept the Classroom 50 assignment.
-2. Work in `tutorial1.ipynb` (Colab or locally).
-3. Commit your notebook when you are done.
+1. Open the notebook in Colab (button above) or locally.
+2. Run the cells and experiment.
 
-This tutorial has no autograder. Participation / completion is checked by the instructor.
+No commit and no submission are required for this tutorial.
+
+## Optional: keep your changes in Google Drive
+
+If you edit the notebook in Colab and want to keep your work, save a copy to Drive. Otherwise your changes may be lost when the Colab session ends.
+
+In Colab: **File → Save a copy in Drive**.
